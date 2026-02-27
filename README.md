@@ -45,6 +45,3 @@ https://ichirosengoku.github.io/xcx-caesar-ja/caesarja.mjs?v=1
 
 ---
 
-## ライセンス
-
-（必要に応じて追記してください。例：MIT License など）
